@@ -15,7 +15,7 @@ A simple, clean, and functional **To-Do Web Application** developed as part of *
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live project](http)
+🌐 [Click here to view the live project](https://vasanth-kumar-009.github.io/SCT_WD_4/)
 
 ---
 
